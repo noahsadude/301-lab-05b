@@ -8,6 +8,7 @@ div, nav, footer{
   justify-content: center;
 }
 
+/*Desktop view*/
 @media(min-width:768px){
 body{
   grid-template-columns: repeat(96,1fr);
@@ -55,12 +56,13 @@ body{
   }
 }
 
+/*Tablet view*/
 @media(max-width:767px) and (min-width:601px){
   body{
     grid-template-columns: repeat(96,1fr);
     grid-template-rows: repeat(70,1fr);
     height:700px;
-    max-width:960px;
+    max-width:767px;
   }
     nav{
      grid-column:1 / 97;
@@ -102,7 +104,7 @@ body{
     }
 }
 
-  
+/*Mobile view*/
 @media(max-width:600px){
   body{
     grid-template-columns: repeat(2,1fr);
