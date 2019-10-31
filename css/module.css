@@ -1,0 +1,102 @@
+@media(max-width:600px){
+
+  nav{
+    background-color:#B0E0E6;
+  }
+
+  #b {
+    background-color:#7B68EE;
+  }
+  #c {
+    background-color:#FFD700;
+  }
+  #d {
+    background-color:#A0522D;
+  }
+  #e {
+    background-color:#800080;
+  }
+  #f {
+    background-color:#BA55D3;
+  }
+  #g {
+    background-color:#FF1493;
+  }
+  #h {
+    background-color:#FF7F50;
+  }
+
+  footer{
+    background-color:#8B008B;
+  }
+
+}
+
+@media (min-width:601px) and (max-width:767px){
+
+  nav{
+    background-color:#BC8F8F;
+  }
+
+  #b {
+    background-color:#EE82EE;
+  }
+  #c {
+    background-color:#FFDEAD;
+  }
+  #d {
+    background-color:#00CED1;
+  }
+  #e {
+    background-color:#C0C0C0;
+  }
+  #f {
+    background-color:#FF4500;
+  }
+  #g {
+    background-color:#2E8B57;
+  }
+  #h {
+    background-color:#00008B;
+  }
+
+  footer{
+    background-color:#FFA500;
+  }
+
+}
+
+
+@media(min-width:768px){
+
+  nav{
+    background-color:#800000;
+  }
+
+  #b {
+    background-color:#3CB371;
+  }
+  #c {
+    background-color:#8B4513;
+  }
+  #d {
+    background-color:#F0FFF0;
+  }
+  #e {
+    background-color:#F4A460;
+  }
+  #f {
+    background-color:#4169E1;
+  }
+  #g {
+    background-color:#D2B48C;
+  }
+  #h {
+    background-color:#800000;
+  }
+
+  footer {
+    background-color:#000000;
+    color:#FFFFFF;
+  }
+}
